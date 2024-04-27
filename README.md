@@ -57,9 +57,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiwebdeveloper1&layout=compact" alt="rishiwebdeveloper1" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=rishiwebdeveloper1&show_icons=true&locale=en" alt="rishiwebdeveloper1" />
 </p>
 
