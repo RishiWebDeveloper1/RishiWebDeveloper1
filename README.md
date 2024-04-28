@@ -26,16 +26,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rishi-vishwakarma" target="blank">
+  <a href="https://www.linkedin.com/in/rishi-vishwakarma-8363762a4/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi vishwakarma" height="30" width="40" />
   </a>
-  <a href="https://fb.com/rishi.vishwakarma" target="blank">
+  <a href="https://www.facebook.com/rishi.vishwakarma.9849912" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishi vishwakarma" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rishi.vishwakarma" target="blank">
+  <a href="https://www.instagram.com/rv2.ogaming/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi vishwakarma" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/rishi-vishwakarma" target="blank">
+  <a href="https://www.youtube.com/channel/UC4SNEBgnFUTVFXxV3ZMXknw" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishi vishwakarma" height="30" width="40" />
   </a>
 </p>
