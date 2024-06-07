@@ -10,20 +10,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Notes Locker Web Project](https://github.com/RishiWebDeveloper1/Notes_Lock)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [QR Scanner Web Project](https://github.com/RishiWebDeveloper1/QR_Scanner)
-
-- 🤝 I’m looking for help with [All Repair Web Project](https://github.com/RishiWebDeveloper1/repair_tooler)
-
-- 💬 Ask me about **Python, Web Development, JavaScript**
-
-- 📫 How to reach me: [rishivishwa4877@gmail.com](mailto:rishivishwa4877@gmail.com)
-
-- 📄 Know more about my experiences on [GitHub](https://github.com/RishiWebDeveloper1/repair_tooler)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rishi-vishwakarma-8363762a4/" target="blank">
