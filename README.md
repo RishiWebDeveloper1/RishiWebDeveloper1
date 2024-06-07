@@ -55,7 +55,7 @@
 </p>
 
 <p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiwebdeveloper1&layout=compact" alt="rishiwebdeveloper1" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rishiwebdeveloper1&show_icons=true&locale=en" alt="rishiwebdeveloper1" />
+  <img width="calc(50% - 50px)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiwebdeveloper1&layout=compact" alt="rishiwebdeveloper1" />
+  <img width="calc(50% - 50px)" src="https://github-readme-stats.vercel.app/api?username=rishiwebdeveloper1&show_icons=true&locale=en" alt="rishiwebdeveloper1" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiwebdeveloper1" alt="rishiwebdeveloper1" />
 </p>
